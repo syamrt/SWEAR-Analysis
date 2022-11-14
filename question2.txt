@@ -1,0 +1,60 @@
+56% of Y is 182. What is Y?
+350
+364
+325
+330
+C
+285 is summation of 3 numbers. Ratio between 2nd and 3rd numbers is 6:5. Ratio between 1st and 2nd numbers is 3:7. The 3rd number is?
+135
+150
+124 
+105
+D
+A man got Rs. 130 less, as simple interest, when he invested Rs. 2000 for 4 years as compared to investing Rs. 2250 for same duration. What is the rate of interest?
+12%
+13%
+12.5%
+10.50%
+B
+Amit covers a distance at a speed of 24 km/hr in 6 min. If he wants to cover the same distance in 8 min, what should be his speed?
+18 km/hr
+21 km/hr
+30 km/hr
+15 km/hr
+A
+Ram is three times as old as his Sam. 2 years ago he was five times as old as Sam. What is the present age of Ram?
+12 years
+14 years
+18 years
+24 years
+A
+Two pipes M and N can fill a tank in 22 hours and 33 hours respectively. In how much time will the tank be full, if both the pipes are opened simultaneously?
+18 hours
+19/22 hours
+1(1/11) hours
+13(1/5) hours
+D
+Two trains A and B leave Kolkata for Sikkim at 8:00 pm and 8:30 pm respectively and run at 90 km/hr and 120 km/hr, respectively. At what distance from Kolkata, will the two trains meet?
+450 kms
+180 kms
+150 kms
+360 kms
+B
+Find average of natural numbers from 1 to 65?
+33
+32.5
+130
+65
+A
+In a palace, supplies are available for 35 days for only 75 people. 15 Guests arrive in the palace for vacation on day 1 itself. For how many days will these supplies be sufficient for all these people?
+90 days
+11.25 days
+42 days
+22.5 days
+C
+Suresh keeps all his socks in a single drawer. He has 24 pairs of white socks and 18 pairs of grey socks. Suresh picks 3 socks randomly. Find the possibility of Suresh choosing a matching pair.
+1/36
+1/108
+7/36 
+1
+D
