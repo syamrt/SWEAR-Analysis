@@ -4,7 +4,7 @@ beauty : ugliness
 sitting: walking
 square: triangle
 B
-Dan is Joshua's son and Guy's brother. Margaret is Guy's mother and Judy's daughter. Which of the statements below is true?
+Dan is Joshua's so and Guy's brother. Margaret is Guy's mother and Judy's daughter. Which of the statements below is true?
 Judy is Dan's mother-in-law.
 Margaret is Dan's mother.
 Judy is Joshua's grandmother.
